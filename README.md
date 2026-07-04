@@ -1,1 +1,3 @@
-# 2026-06-KIT-COC-SC-285
+Title: Stablecoins and Financial Market Stability: Framework with Main Regression Models
+
+Model: regression model,Financial Market Stability
